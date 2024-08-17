@@ -1,0 +1,27 @@
+body {
+  background-color: #4D504F; /* grey-ish black */
+  color: #FDFFFC; /* white */
+}
+
+a {
+  color: #6EC395; /* green */
+  }
+
+img {
+  border-radius: 10px;
+}
+
+#return {
+  color: #4D504F; /* grey-ish black */
+} 
+
+.text {
+  color: #C2EFFF; /* light blue */
+}
+
+.title {
+  background-color: #4E6E5D; /* light green */
+  color: #6EC395; /* green */
+}
+
+
